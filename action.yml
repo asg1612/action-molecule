@@ -1,0 +1,3 @@
+runs:
+    using: docker
+    image: 'docker://asg1612/action-molecule:latest'
